@@ -1,0 +1,19 @@
+Script started on 2017年06月13日 (週二) 00時40分55秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab7 $[00m make
+make: `lab7' is up to date.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab7 $[00m ./lab7
+0000
+0000
+0110
+0011
+0000
+0000
+0110
+0011
+0000
+0000
+0110
+0011
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab7 $[00m exit
+
+Script done on 2017年06月13日 (週二) 00時41分10秒
